@@ -1,0 +1,33 @@
+# Core AI
+torch
+transformers
+accelerate
+
+# Embeddings
+sentence-transformers
+
+# LangChain
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+
+# Vector Database
+chromadb
+
+# PDF Processing
+pypdf
+
+# Data Processing
+pandas
+openpyxl
+
+# API
+fastapi
+uvicorn
+
+# Local LLM
+ollama
+
+# Utilities
+python-dotenv
