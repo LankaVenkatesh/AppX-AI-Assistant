@@ -1,0 +1,80 @@
+ 
+ 
+ 
+ 
+Bench Management & Transition Policy 
+ 
+Company Name: AppXcelerate Solutions Pvt Ltd 
+ 
+1. Purpose 
+• The purpose of this policy is to ensure effective management of employees who are not currently 
+assigned to billable client projects (“bench resources”) and to define clear procedures for 
+redeployment, upskilling, and, if necessary, release from the organization. 
+• This policy aims to balance business needs with employee welfare while ensuring transparency, 
+fairness, and compliance with applicable laws. 
+2. Scope 
+This policy applies to: 
+• All full-time employees of Appxcelerate Solutions Pvt Ltd in delivery or technical roles. 
+• All employees who are without an active project assignment for a continuous period exceeding the 
+bench duration limit. 
+3. Definitions 
+• Bench – A period during which an employee is not deployed on a revenue -generating or billable 
+project but remains employed. 
+• Bench Duration Limit – The maximum number of calendar days an employee may remain on the 
+bench before a transition decision is made. Default limit: 45 days (may vary by business unit). 
+• Resource Management Group (RMG) – The internal team responsible for allocation, redeployment, 
+and bench tracking. 
+4. Bench Period Management 
+• Initiation of Bench Period – The bench period begins the day after an employee is released from their 
+last billable project. 
+• Duration – The standard bench duration is 45 days, extendable up to 60 days  in special cases with 
+Business Unit Head approval. 
+• Monitoring – RMG will maintain an updated bench list, reviewed weekly with Delivery Managers and 
+HR. 
+• Employees moved to the bench due to performance concerns will be placed on a Performance 
+Improvement Plan (PIP) for a duration of one month. If performance does not meet the required 
+standards during this period, the employment agreement will be terminated  immediately upon 
+completion of the PIP. 
+5. Redeployment Process 
+During the bench period, the following steps will be taken to redeploy the employee: 
+• Skill Matching – Evaluate employee’s skills against current and upcoming project requirements. 
+• Cross-Skilling/Upskilling – Offer targeted learning programs aligned with in-demand skills. 
+• Shadow Assignments – Assign to shadow roles or non-billable internal initiatives. 
+ 
+ 
+ 
+ 
+ 
+• Temporary Assignments – Utilize in proposal support, quality reviews, testing, or other billable -
+preparatory tasks. 
+• Project Matching Communication – Employees must respond promptly to potential opportunities 
+proposed by RMG. 
+6. Communication & Review 
+• Day 1 of Bench – Formal communication from RMG notifying the start of the bench period and 
+available support/resources. 
+• Mid-Period Review (Day 20) – Progress check involving Delivery Manager, RMG, and HR to assess 
+redeployment status. 
+• Final Review (Day 45) – If no assignment is confirmed, a transition plan is prepared, which may include 
+release. 
+7. Release Decision Criteria 
+An employee may be released if: 
+• The bench duration exceeds the defined limit without confirmed project assignment. 
+• No suitable project opportunities are available despite redeployment efforts. 
+• Required skills are not aligned to current or foreseeable business needs. 
+• The employee declines reasonable project opportunities without valid reasons. 
+8. Transition & Exit Process 
+• Notice Period – Follow terms of the employment contract (e.g., 30–60 days). 
+• Final Settlement – Clearances, handover, and settlement to be completed per HR & Finance policies. 
+• Rehire Consideration – Employees may be considered for rehire if future skills match business 
+requirements. 
+• Outplacement Support – HR may provide limited job referral assistance. 
+9. Compliance & Documentation 
+• All redeployment attempts, communications, and decisions must be documented in the HR system 
+for audit purposes. 
+• This policy will be implemented in accordance with applicable labor laws, statutory requirements, 
+and internal employment terms. 
+ 10. Ethical Standards  
+• All actions under this policy will be handled with professionalism, fairness, and respect. 
+• Decisions will not be influenced by age, gender, religion, disability, or any protected characteristic. 
+ 
+Policy Owner: HR Operations – Appxcelerate Solutions Pvt Ltd 
