@@ -1,0 +1,584 @@
+{"text": "Question: Who is eligible for the joining bonus?\n\nAnswer: Employees who have been offered a Joining Bonus as part of their employment offer letter are eligible.\n\n<END>"}
+{"text": "Question: Is every employee eligible for a joining bonus?\n\nAnswer: No. Only employees whose offer letter includes a Joining Bonus are covered under this policy.\n\n<END>"}
+{"text": "Question: When will I receive my joining bonus?\n\nAnswer: The Joining Bonus is payable after successful completion of three months from the date of joining.\n\n<END>"}
+{"text": "Question: Do I receive the joining bonus immediately after joining?\n\nAnswer: No. The Joining Bonus is paid only after completing three months of service.\n\n<END>"}
+{"text": "Question: How many months do I need to work before receiving the joining bonus?\n\nAnswer: You must complete three months of continuous service from your joining date.\n\n<END>"}
+{"text": "Question: What is the waiting period for joining bonus payment?\n\nAnswer: The waiting period is three months from the employee's date of joining.\n\n<END>"}
+{"text": "Question: Is continuous service required for joining bonus eligibility?\n\nAnswer: Yes. The employee must complete three months of continuous service.\n\n<END>"}
+{"text": "Question: Do I need to be employed at the time of bonus disbursement?\n\nAnswer: Yes. The employee must be actively employed with AppXcelerate when the bonus is disbursed.\n\n<END>"}
+{"text": "Question: What happens if I resign before three months?\n\nAnswer: You will not be eligible to receive the Joining Bonus.\n\n<END>"}
+{"text": "Question: Can my joining bonus be delayed?\n\nAnswer: Yes. The Joining Bonus may be deferred under specific circumstances such as being placed on a PIP.\n\n<END>"}
+{"text": "Question: What happens to my joining bonus if I am on a PIP?\n\nAnswer: The bonus payment may be deferred until you successfully complete the PIP process or are redeployed to a project.\n\n<END>"}
+{"text": "Question: Will I lose my joining bonus if I am on a Performance Improvement Plan?\n\nAnswer: Not necessarily. The payment may be deferred until the PIP is completed successfully or you are redeployed.\n\n<END>"}
+{"text": "Question: Why would my joining bonus be deferred?\n\nAnswer: The bonus may be deferred if you are placed on a PIP and removed from a project due to performance concerns.\n\n<END>"}
+{"text": "Question: When will a deferred joining bonus be released?\n\nAnswer: It may be released after successful completion of the PIP or deployment to a project, whichever occurs earlier.\n\n<END>"}
+{"text": "Question: Can redeployment affect my joining bonus payment?\n\nAnswer: Yes. Successful deployment or redeployment may trigger the release of a deferred bonus.\n\n<END>"}
+{"text": "Question: What is the recovery clause in the joining bonus policy?\n\nAnswer: Employees must repay the entire Joining Bonus if employment ends within one year of joining.\n\n<END>"}
+{"text": "Question: Do I need to repay the joining bonus if I resign within one year?\n\nAnswer: Yes. The full Joining Bonus amount must be repaid if employment ends within one year from joining.\n\n<END>"}
+{"text": "Question: What happens if the company terminates my employment within one year?\n\nAnswer: The recovery clause applies if employment is terminated by either party within one year of joining.\n\n<END>"}
+{"text": "Question: How much of the joining bonus must be repaid?\n\nAnswer: The entire Joining Bonus amount received must be refunded.\n\n<END>"}
+{"text": "Question: Is partial repayment allowed for the joining bonus?\n\nAnswer: The policy states that the entire Joining Bonus amount must be repaid.\n\n<END>"}
+{"text": "Question: What is the repayment deadline for joining bonus recovery?\n\nAnswer: Repayment must be completed within 30 days from the last working day.\n\n<END>"}
+{"text": "Question: How many days do I have to repay the joining bonus after leaving?\n\nAnswer: You have 30 days from your last working day to repay the amount.\n\n<END>"}
+{"text": "Question: What happens if I do not clear my joining bonus dues?\n\nAnswer: Company documents and settlements may be withheld until dues are cleared.\n\n<END>"}
+{"text": "Question: Will I receive my experience letter before repaying the joining bonus?\n\nAnswer: No. The experience letter will be released only after dues are cleared.\n\n<END>"}
+{"text": "Question: Will my relieving letter be withheld if I owe joining bonus repayment?\n\nAnswer: Yes. Relieving documents may be withheld until the dues are cleared.\n\n<END>"}
+{"text": "Question: Can final settlement be processed before clearing joining bonus dues?\n\nAnswer: No. Final settlement is released only after clearance of dues.\n\n<END>"}
+{"text": "Question: Which documents are withheld until repayment is completed?\n\nAnswer: Experience letter, relieving letter, and final settlement may be withheld.\n\n<END>"}
+{"text": "Question: Can misconduct affect my joining bonus?\n\nAnswer: Yes. The company may withhold or cancel the bonus in cases of misconduct.\n\n<END>"}
+{"text": "Question: What happens to my joining bonus if I violate company policies?\n\nAnswer: The company may withhold or cancel the bonus at its discretion.\n\n<END>"}
+{"text": "Question: Can disciplinary action impact joining bonus eligibility?\n\nAnswer: Yes. The bonus may be withheld or cancelled if disciplinary action is taken.\n\n<END>"}
+{"text": "Question: Who decides whether the joining bonus is cancelled in misconduct cases?\n\nAnswer: The decision is at the discretion of the company.\n\n<END>"}
+{"text": "Question: Can the company completely cancel my joining bonus?\n\nAnswer: Yes. The company may cancel the Joining Bonus in misconduct or disciplinary cases.\n\n<END>"}
+{"text": "Question: Is joining bonus payment guaranteed?\n\nAnswer: No. Employees must satisfy all eligibility and policy conditions.\n\n<END>"}
+{"text": "Question: What conditions must be met to receive the joining bonus?\n\nAnswer: The employee must have a joining bonus in the offer letter, complete three months of service, and be actively employed.\n\n<END>"}
+{"text": "Question: Does project allocation affect joining bonus payment?\n\nAnswer: It may affect payment if the employee is on a PIP and awaiting redeployment.\n\n<END>"}
+{"text": "Question: Can project removal due to performance issues affect bonus disbursement?\n\nAnswer: Yes. Bonus payment may be deferred until performance requirements are met.\n\n<END>"}
+{"text": "Question: Does successful completion of PIP restore joining bonus eligibility?\n\nAnswer: Yes. Successful completion of PIP may lead to release of the deferred bonus.\n\n<END>"}
+{"text": "Question: Can joining bonus policies change in the future?\n\nAnswer: Yes. AppXcelerate reserves the right to amend, modify, or withdraw the policy.\n\n<END>"}
+{"text": "Question: Can the company modify the joining bonus policy without notice?\n\nAnswer: Yes. The company may amend or withdraw the policy with or without prior notice.\n\n<END>"}
+{"text": "Question: Is prior notice required before changing the policy?\n\nAnswer: No. The company may change the policy without prior notice.\n\n<END>"}
+{"text": "Question: What happens if I leave after receiving the joining bonus but before completing one year?\n\nAnswer: You must refund the entire Joining Bonus amount.\n\n<END>"}
+{"text": "Question: Does the repayment obligation apply if I voluntarily resign?\n\nAnswer: Yes. The recovery clause applies if employment ends within one year.\n\n<END>"}
+{"text": "Question: Does the repayment obligation apply if the company terminates me?\n\nAnswer: Yes. The recovery clause applies regardless of which party terminates employment.\n\n<END>"}
+{"text": "Question: Is the joining bonus linked to performance?\n\nAnswer: Performance issues leading to PIP may affect the timing of bonus disbursement.\n\n<END>"}
+{"text": "Question: Can I receive the joining bonus while under disciplinary investigation?\n\nAnswer: The company may withhold or cancel the bonus at its discretion.\n\n<END>"}
+{"text": "Question: Can I appeal a joining bonus cancellation?\n\nAnswer: The policy does not specify an appeal process. Decisions are at the company's discretion.\n\n<END>"}
+{"text": "Question: What is considered active employment for bonus payment?\n\nAnswer: The employee must still be employed by AppXcelerate when the bonus is scheduled for disbursement.\n\n<END>"}
+{"text": "Question: Can a deferred joining bonus be permanently cancelled?\n\nAnswer: Yes. The company may withhold or cancel the bonus in misconduct or disciplinary cases.\n\n<END>"}
+{"text": "Question: What should I do if I have questions about my joining bonus eligibility?\n\nAnswer: You should contact HR for clarification regarding your eligibility and policy conditions.\n\n<END>"}
+{"text": "Question: What is the purpose of the office chair policy?\n\nAnswer: The policy provides guidelines for employees to purchase office chairs for work-related purposes while ensuring comfort, ergonomics, and productivity.\n\n<END>"}
+{"text": "Question: Why does AppX provide support for office chair purchases?\n\nAnswer: The policy aims to improve employee comfort, ergonomics, and productivity in the workplace.\n\n<END>"}
+{"text": "Question: Who is eligible to apply for an office chair under this policy?\n\nAnswer: All full-time employees who require an office chair for their designated workspace at the office are eligible.\n\n<END>"}
+{"text": "Question: Are contract employees eligible for office chair reimbursement?\n\nAnswer: The policy specifically mentions full-time employees as eligible.\n\n<END>"}
+{"text": "Question: Can all employees apply for an office chair reimbursement?\n\nAnswer: Only full-time employees who require an office chair for their designated workspace are eligible.\n\n<END>"}
+{"text": "Question: How do I request approval for an office chair purchase?\n\nAnswer: Employees must submit a request to the HR department.\n\n<END>"}
+{"text": "Question: Who should I contact to request an office chair purchase?\n\nAnswer: Requests must be submitted to the HR department.\n\n<END>"}
+{"text": "Question: What information should be included in my office chair request?\n\nAnswer: The request should include justification for the purchase and any specific ergonomic requirements.\n\n<END>"}
+{"text": "Question: Do I need to explain why I need the chair?\n\nAnswer: Yes, the request should include justification for the purchase.\n\n<END>"}
+{"text": "Question: Can I request a chair with special ergonomic features?\n\nAnswer: Yes, employees can specify ergonomic requirements in their request.\n\n<END>"}
+{"text": "Question: How is approval for an office chair determined?\n\nAnswer: Approval is granted based on business need and budget availability.\n\n<END>"}
+{"text": "Question: Is approval guaranteed once I submit a request?\n\nAnswer: No, approval depends on the employee's need and the available budget.\n\n<END>"}
+{"text": "Question: What is the maximum reimbursement amount for an office chair?\n\nAnswer: The company reimburses 50% of the chair value or \u20b93,000, whichever is lower.\n\n<END>"}
+{"text": "Question: How much of the chair cost will the company pay?\n\nAnswer: The company will reimburse 50% of the chair value up to a maximum of \u20b93,000.\n\n<END>"}
+{"text": "Question: Does the company reimburse the full cost of the chair?\n\nAnswer: No, reimbursement is limited to 50% of the chair value or \u20b93,000, whichever is lower.\n\n<END>"}
+{"text": "Question: What happens if my chair costs more than the approved budget?\n\nAnswer: The employee must pay the additional amount unless an exception is approved.\n\n<END>"}
+{"text": "Question: Will the company cover costs above \u20b93,000?\n\nAnswer: No, unless an exception has been approved by management.\n\n<END>"}
+{"text": "Question: Can exceptions be made for higher chair costs?\n\nAnswer: Yes, exceptions may be approved by management.\n\n<END>"}
+{"text": "Question: In whose name should the chair be purchased?\n\nAnswer: The chair must be purchased in the name of the organization and include GST details.\n\n<END>"}
+{"text": "Question: Do I need a GST invoice for reimbursement?\n\nAnswer: Yes, the purchase should include GST details.\n\n<END>"}
+{"text": "Question: What documents are required for reimbursement?\n\nAnswer: Employees must submit proof of purchase such as an invoice or receipt.\n\n<END>"}
+{"text": "Question: Is an invoice mandatory for office chair reimbursement?\n\nAnswer: Yes, proof of purchase is required for reimbursement processing.\n\n<END>"}
+{"text": "Question: Can I claim reimbursement without a receipt?\n\nAnswer: No, proof of purchase must be submitted.\n\n<END>"}
+{"text": "Question: When will the office chair reimbursement be processed?\n\nAnswer: Reimbursement will be processed on or before the 5th of the subsequent month.\n\n<END>"}
+{"text": "Question: How long does reimbursement processing take?\n\nAnswer: Approved reimbursements are processed by the 5th of the following month.\n\n<END>"}
+{"text": "Question: What chair specifications are required under this policy?\n\nAnswer: Chairs must meet ergonomic standards including adjustable height, lumbar support, and cushioned seating.\n\n<END>"}
+{"text": "Question: Does the chair need ergonomic features?\n\nAnswer: Yes, ergonomic standards are mandatory under this policy.\n\n<END>"}
+{"text": "Question: What ergonomic requirements must the chair meet?\n\nAnswer: The chair should have adjustable height, lumbar support, and cushioned seating.\n\n<END>"}
+{"text": "Question: Can I buy any type of office chair?\n\nAnswer: No, the chair must meet the specified ergonomic standards.\n\n<END>"}
+{"text": "Question: Where can I purchase the office chair from?\n\nAnswer: Chairs must be purchased from Amazon, Flipkart, or Croma.\n\n<END>"}
+{"text": "Question: Can I buy a chair from a local furniture store?\n\nAnswer: No, the policy permits purchases only from Amazon, Flipkart, or Croma.\n\n<END>"}
+{"text": "Question: Is Amazon an approved vendor for office chair purchases?\n\nAnswer: Yes, Amazon is one of the approved purchase platforms.\n\n<END>"}
+{"text": "Question: Is Flipkart an approved vendor under this policy?\n\nAnswer: Yes, Flipkart is an approved platform for chair purchases.\n\n<END>"}
+{"text": "Question: Is Croma an approved seller for office chairs?\n\nAnswer: Yes, Croma is one of the approved purchase sources.\n\n<END>"}
+{"text": "Question: Who owns the office chair after purchase?\n\nAnswer: The chair remains company property because it is purchased using company funds.\n\n<END>"}
+{"text": "Question: Does the office chair belong to me after reimbursement?\n\nAnswer: No, the chair remains the property of the company.\n\n<END>"}
+{"text": "Question: Why does the company own the chair?\n\nAnswer: The chair remains company property because company funds are used for the purchase.\n\n<END>"}
+{"text": "Question: Am I responsible for maintaining the chair?\n\nAnswer: Yes, employees must maintain the chair in good condition.\n\n<END>"}
+{"text": "Question: What are my responsibilities after receiving the chair?\n\nAnswer: Employees are responsible for maintaining the chair properly.\n\n<END>"}
+{"text": "Question: Do I need to return the chair if I resign?\n\nAnswer: The company may require the chair to be returned upon resignation, subject to its discretion.\n\n<END>"}
+{"text": "Question: What happens to the chair when I leave the company?\n\nAnswer: The company may ask you to return the chair because it remains company property.\n\n<END>"}
+{"text": "Question: Is returning the chair mandatory after resignation?\n\nAnswer: It depends on the company's discretion at the time of separation.\n\n<END>"}
+{"text": "Question: Can the company ask for the chair back after termination?\n\nAnswer: Yes, the chair may need to be returned upon termination.\n\n<END>"}
+{"text": "Question: Are there any exceptions to the office chair policy?\n\nAnswer: Yes, exceptions may be approved by management.\n\n<END>"}
+{"text": "Question: Who approves exceptions under this policy?\n\nAnswer: Exceptions require management approval.\n\n<END>"}
+{"text": "Question: Can employees with medical conditions receive special consideration?\n\nAnswer: Yes, special accommodations may be considered for medical needs.\n\n<END>"}
+{"text": "Question: Do I need documentation for medical accommodations?\n\nAnswer: Yes, appropriate supporting documentation is required.\n\n<END>"}
+{"text": "Question: Can management approve special cases outside the standard budget?\n\nAnswer: Yes, management may approve exceptions on a case-by-case basis.\n\n<END>"}
+{"text": "Question: What should I do if I need a chair beyond the standard specifications?\n\nAnswer: You should provide justification and any relevant ergonomic or medical requirements during the approval process.\n\n<END>"}
+{"text": "Question: How can I ensure my reimbursement request is approved quickly?\n\nAnswer: Submit a complete request with justification, ergonomic requirements, and valid purchase documentation.\n\n<END>"}
+{"text": "Question: What is the purpose of the Bench Management & Transition Policy?\n\nAnswer: The policy ensures effective management of bench resources and defines procedures for redeployment, upskilling, and release if necessary.\n\n<END>"}
+{"text": "Question: Why does the company have a bench management policy?\n\nAnswer: The policy balances business needs with employee welfare while ensuring transparency, fairness, and compliance.\n\n<END>"}
+{"text": "Question: Who does the bench policy apply to?\n\nAnswer: The policy applies to full-time employees in delivery or technical roles and employees exceeding the bench duration limit.\n\n<END>"}
+{"text": "Question: Does the bench policy apply to all employees?\n\nAnswer: It applies primarily to full-time employees in delivery or technical roles who are on the bench.\n\n<END>"}
+{"text": "Question: What is considered a bench period?\n\nAnswer: A bench period is when an employee is not assigned to a billable project but remains employed by the company.\n\n<END>"}
+{"text": "Question: What does being on the bench mean?\n\nAnswer: It means the employee is not currently deployed to a revenue-generating project.\n\n<END>"}
+{"text": "Question: What is the bench duration limit?\n\nAnswer: The default bench duration limit is 45 calendar days, though it may vary by business unit.\n\n<END>"}
+{"text": "Question: How long can I remain on the bench?\n\nAnswer: The standard bench duration is 45 days.\n\n<END>"}
+{"text": "Question: Can the bench period be extended?\n\nAnswer: Yes, the bench period can be extended up to 60 days with Business Unit Head approval.\n\n<END>"}
+{"text": "Question: Who manages bench allocation and redeployment?\n\nAnswer: The Resource Management Group (RMG) is responsible for allocation, redeployment, and bench tracking.\n\n<END>"}
+{"text": "Question: What is the role of the Resource Management Group?\n\nAnswer: RMG manages employee allocation, redeployment opportunities, and bench monitoring.\n\n<END>"}
+{"text": "Question: When does the bench period officially start?\n\nAnswer: The bench period starts the day after an employee is released from their last billable project.\n\n<END>"}
+{"text": "Question: How is the start date of bench calculated?\n\nAnswer: It begins immediately after release from the previous billable assignment.\n\n<END>"}
+{"text": "Question: How is the bench list monitored?\n\nAnswer: RMG maintains the bench list and reviews it weekly with Delivery Managers and HR.\n\n<END>"}
+{"text": "Question: How often is bench status reviewed?\n\nAnswer: Bench status is reviewed weekly by RMG, HR, and Delivery Managers.\n\n<END>"}
+{"text": "Question: What happens if I am moved to the bench due to performance issues?\n\nAnswer: You will be placed on a one-month Performance Improvement Plan (PIP).\n\n<END>"}
+{"text": "Question: How long is the PIP for employees moved to the bench due to performance concerns?\n\nAnswer: The PIP duration is one month.\n\n<END>"}
+{"text": "Question: What happens if I fail the PIP while on the bench?\n\nAnswer: Employment may be terminated immediately upon completion of the PIP if performance standards are not met.\n\n<END>"}
+{"text": "Question: Will the company help me find another project while on the bench?\n\nAnswer: Yes, redeployment efforts are made through skill matching and project allocation processes.\n\n<END>"}
+{"text": "Question: What is skill matching during redeployment?\n\nAnswer: The company evaluates employee skills against current and upcoming project requirements.\n\n<END>"}
+{"text": "Question: Does the company provide upskilling opportunities while on the bench?\n\nAnswer: Yes, targeted learning programs aligned with business needs may be provided.\n\n<END>"}
+{"text": "Question: Can I receive training while on the bench?\n\nAnswer: Yes, cross-skilling and upskilling opportunities may be offered.\n\n<END>"}
+{"text": "Question: What are shadow assignments?\n\nAnswer: Shadow assignments involve participation in shadow roles or internal initiatives while awaiting project allocation.\n\n<END>"}
+{"text": "Question: Can I work on internal initiatives while on the bench?\n\nAnswer: Yes, employees may be assigned to non-billable internal initiatives.\n\n<END>"}
+{"text": "Question: What are temporary assignments during the bench period?\n\nAnswer: Temporary assignments may include proposal support, testing, quality reviews, and similar activities.\n\n<END>"}
+{"text": "Question: Am I required to respond to project opportunities suggested by RMG?\n\nAnswer: Yes, employees must respond promptly to project opportunities proposed by RMG.\n\n<END>"}
+{"text": "Question: What happens if I ignore project opportunities from RMG?\n\nAnswer: Ignoring reasonable project opportunities may impact employment decisions.\n\n<END>"}
+{"text": "Question: Will I be informed when my bench period starts?\n\nAnswer: Yes, RMG provides formal communication on Day 1 of the bench period.\n\n<END>"}
+{"text": "Question: What information is shared on Day 1 of the bench period?\n\nAnswer: Employees receive information about the bench period and available support resources.\n\n<END>"}
+{"text": "Question: What happens during the Day 20 review?\n\nAnswer: A progress review involving HR, RMG, and the Delivery Manager is conducted to assess redeployment status.\n\n<END>"}
+{"text": "Question: Who participates in the mid-period bench review?\n\nAnswer: HR, RMG, and the Delivery Manager participate in the review.\n\n<END>"}
+{"text": "Question: What happens during the Day 45 review?\n\nAnswer: A final review is conducted, and a transition plan may be prepared if no assignment is confirmed.\n\n<END>"}
+{"text": "Question: Can I be released after 45 days on the bench?\n\nAnswer: Yes, release may be considered if no suitable assignment is available.\n\n<END>"}
+{"text": "Question: Under what circumstances can an employee be released from the company?\n\nAnswer: Employees may be released if bench duration exceeds limits, no opportunities exist, or skills do not align with business needs.\n\n<END>"}
+{"text": "Question: Can lack of project opportunities lead to release?\n\nAnswer: Yes, if no suitable opportunities are available despite redeployment efforts.\n\n<END>"}
+{"text": "Question: Can outdated skills affect my employment while on the bench?\n\nAnswer: Yes, misalignment between employee skills and business requirements may result in release.\n\n<END>"}
+{"text": "Question: What happens if I reject a project opportunity?\n\nAnswer: Declining reasonable project opportunities without valid reasons may result in release decisions.\n\n<END>"}
+{"text": "Question: Can refusing a project assignment impact my employment?\n\nAnswer: Yes, repeated refusal of suitable opportunities may affect continued employment.\n\n<END>"}
+{"text": "Question: What notice period applies if I am released from the company?\n\nAnswer: The applicable notice period will follow the employment contract terms.\n\n<END>"}
+{"text": "Question: How is final settlement handled after release?\n\nAnswer: Final settlement, handover, and clearances are completed according to HR and Finance policies.\n\n<END>"}
+{"text": "Question: Can I be rehired after being released from the bench?\n\nAnswer: Yes, former employees may be considered for rehire if future skill requirements match.\n\n<END>"}
+{"text": "Question: Does the company provide assistance after release?\n\nAnswer: HR may provide limited outplacement support and job referral assistance.\n\n<END>"}
+{"text": "Question: What is outplacement support?\n\nAnswer: It refers to limited assistance provided by HR to help employees find new opportunities.\n\n<END>"}
+{"text": "Question: Are redeployment efforts documented?\n\nAnswer: Yes, all redeployment attempts, communications, and decisions are documented in the HR system.\n\n<END>"}
+{"text": "Question: Why are bench-related activities documented?\n\nAnswer: Documentation supports audit requirements and policy compliance.\n\n<END>"}
+{"text": "Question: Does the bench policy comply with labor laws?\n\nAnswer: Yes, the policy is implemented in accordance with applicable labor laws and statutory requirements.\n\n<END>"}
+{"text": "Question: Will bench-related decisions be fair and unbiased?\n\nAnswer: Yes, decisions are made with professionalism, fairness, and respect.\n\n<END>"}
+{"text": "Question: Can bench decisions be influenced by age, gender, or religion?\n\nAnswer: No, decisions cannot be influenced by protected characteristics.\n\n<END>"}
+{"text": "Question: What ethical standards apply to bench management?\n\nAnswer: All actions must be conducted fairly, professionally, and without discrimination.\n\n<END>"}
+{"text": "Question: Who owns and manages this policy?\n\nAnswer: The policy is owned by HR Operations at AppXcelerate Solutions Pvt Ltd.\n\n<END>"}
+{"text": "Question: What is the purpose of the Code of Conduct Policy?\n\nAnswer: The policy defines the ethical standards, behaviors, and responsibilities expected of employees and representatives of the organization.\n\n<END>"}
+{"text": "Question: Why does the company have a Code of Conduct Policy?\n\nAnswer: The policy promotes integrity, professionalism, accountability, and a respectful work environment while protecting company assets and reputation.\n\n<END>"}
+{"text": "Question: Who is covered under the Code of Conduct Policy?\n\nAnswer: The policy applies to employees, contractors, interns, and representatives of the organization.\n\n<END>"}
+{"text": "Question: Does the policy apply to contractors and interns?\n\nAnswer: Yes, the policy applies to contractors, interns, employees, and organizational representatives.\n\n<END>"}
+{"text": "Question: Does the Code of Conduct apply outside the office?\n\nAnswer: Yes, it applies to work-related activities conducted on-site, off-site, and through digital platforms.\n\n<END>"}
+{"text": "Question: Am I required to follow applicable laws and regulations?\n\nAnswer: Yes, all individuals must comply with applicable laws, regulations, and industry standards.\n\n<END>"}
+{"text": "Question: What laws am I expected to follow under this policy?\n\nAnswer: Employees must comply with labor laws, safety regulations, data protection laws, anti-corruption laws, and other applicable regulations.\n\n<END>"}
+{"text": "Question: What should I do if I suspect a legal violation?\n\nAnswer: You should report any suspected legal violations immediately.\n\n<END>"}
+{"text": "Question: Am I required to cooperate with investigations?\n\nAnswer: Yes, employees must fully cooperate with lawful investigations.\n\n<END>"}
+{"text": "Question: What happens if I violate laws or regulations?\n\nAnswer: Non-compliance may result in disciplinary action and potential legal consequences.\n\n<END>"}
+{"text": "Question: What kind of workplace does the company promote?\n\nAnswer: The company promotes a workplace based on dignity, equality, and mutual respect.\n\n<END>"}
+{"text": "Question: What behaviors are considered unacceptable in the workplace?\n\nAnswer: Harassment, discrimination, bullying, intimidation, and threats are considered unacceptable.\n\n<END>"}
+{"text": "Question: Is workplace harassment prohibited?\n\nAnswer: Yes, harassment in any form is prohibited.\n\n<END>"}
+{"text": "Question: Does the company prohibit discrimination?\n\nAnswer: Yes, discrimination based on protected characteristics is prohibited.\n\n<END>"}
+{"text": "Question: How should employees treat colleagues and clients?\n\nAnswer: Employees should treat colleagues, clients, and partners with respect.\n\n<END>"}
+{"text": "Question: Are employees encouraged to promote teamwork and inclusion?\n\nAnswer: Yes, employees are expected to promote inclusion and teamwork.\n\n<END>"}
+{"text": "Question: Should inappropriate workplace behavior be reported?\n\nAnswer: Yes, employees should report inappropriate behavior without fear of retaliation.\n\n<END>"}
+{"text": "Question: What is considered company property?\n\nAnswer: Company property includes physical assets, digital systems, confidential data, intellectual property, and financial resources.\n\n<END>"}
+{"text": "Question: Can company resources be used for personal purposes?\n\nAnswer: Company resources must be used responsibly and strictly for business purposes.\n\n<END>"}
+{"text": "Question: How should confidential information be handled?\n\nAnswer: Employees must safeguard confidential and sensitive information.\n\n<END>"}
+{"text": "Question: What happens if company property is misused?\n\nAnswer: Misuse or negligence may result in disciplinary or legal action.\n\n<END>"}
+{"text": "Question: What standards of professionalism are expected?\n\nAnswer: Employees must demonstrate honesty, fairness, accountability, and integrity in professional interactions.\n\n<END>"}
+{"text": "Question: Should employees act in the best interest of the organization?\n\nAnswer: Yes, employees are expected to act in the organization's best interest.\n\n<END>"}
+{"text": "Question: Is dishonest behavior allowed?\n\nAnswer: No, dishonest or misleading behavior is prohibited.\n\n<END>"}
+{"text": "Question: Does professionalism apply outside the workplace?\n\nAnswer: Yes, professional conduct is expected when representing the organization both inside and outside the workplace.\n\n<END>"}
+{"text": "Question: What are the dress code expectations?\n\nAnswer: Employees should maintain a neat, clean, respectful, and professional appearance.\n\n<END>"}
+{"text": "Question: Do employees need to follow safety or uniform requirements?\n\nAnswer: Yes, employees must comply with applicable safety and uniform requirements.\n\n<END>"}
+{"text": "Question: Why is attendance important?\n\nAnswer: Regular attendance and punctuality are essential for operational effectiveness.\n\n<END>"}
+{"text": "Question: What should I do if I am running late for work?\n\nAnswer: You should notify your supervisor promptly about delays or emergencies.\n\n<END>"}
+{"text": "Question: What happens if I am repeatedly absent or late?\n\nAnswer: Repeated absenteeism or lateness may result in corrective action.\n\n<END>"}
+{"text": "Question: What is the company's stance on bribery and corruption?\n\nAnswer: The company has zero tolerance for corruption, bribery, and unethical practices.\n\n<END>"}
+{"text": "Question: Can employees accept bribes or kickbacks?\n\nAnswer: No, employees must not offer or accept bribes, kickbacks, or improper gifts.\n\n<END>"}
+{"text": "Question: Is fraud prohibited under the Code of Conduct?\n\nAnswer: Yes, fraud, embezzlement, and falsification of records are strictly prohibited.\n\n<END>"}
+{"text": "Question: What should I do if I become aware of corruption or fraud?\n\nAnswer: You should report the violation immediately.\n\n<END>"}
+{"text": "Question: What are employees expected to do regarding job responsibilities?\n\nAnswer: Employees must perform assigned duties competently and responsibly.\n\n<END>"}
+{"text": "Question: Are employees required to follow lawful instructions from supervisors?\n\nAnswer: Yes, employees must follow lawful instructions from supervisors.\n\n<END>"}
+{"text": "Question: What is a conflict of interest?\n\nAnswer: A conflict of interest occurs when personal interests interfere with professional responsibilities.\n\n<END>"}
+{"text": "Question: What should I do if I have a conflict of interest?\n\nAnswer: You must disclose potential conflicts to management.\n\n<END>"}
+{"text": "Question: Can employees participate in decisions where impartiality is affected?\n\nAnswer: No, employees should refrain from decisions where impartiality is compromised.\n\n<END>"}
+{"text": "Question: Why is teamwork important?\n\nAnswer: Teamwork supports collaboration, shared goals, and organizational success.\n\n<END>"}
+{"text": "Question: How should workplace conflicts be handled?\n\nAnswer: Conflicts should be resolved professionally and constructively.\n\n<END>"}
+{"text": "Question: What standards apply to workplace communication?\n\nAnswer: Communication should be clear, respectful, honest, and professional.\n\n<END>"}
+{"text": "Question: Is sharing confidential information allowed?\n\nAnswer: No, unauthorized sharing of confidential information is prohibited.\n\n<END>"}
+{"text": "Question: Can company benefits or allowances be misused?\n\nAnswer: No, benefits, allowances, and privileges must only be used for legitimate purposes.\n\n<END>"}
+{"text": "Question: What happens if someone abuses company benefits?\n\nAnswer: Violations may result in repayment obligations and disciplinary action.\n\n<END>"}
+{"text": "Question: Am I required to comply with all company policies?\n\nAnswer: Yes, employees must read, understand, and comply with company policies.\n\n<END>"}
+{"text": "Question: How can I report a violation of the Code of Conduct?\n\nAnswer: Violations can be reported to supervisors, HR, or designated ethics/compliance officers.\n\n<END>"}
+{"text": "Question: Will I be protected if I report misconduct in good faith?\n\nAnswer: Yes, the organization prohibits retaliation against individuals who report concerns in good faith.\n\n<END>"}
+{"text": "Question: What are my responsibilities regarding data privacy?\n\nAnswer: Employees must handle personal and organizational data securely and comply with data protection standards.\n\n<END>"}
+{"text": "Question: What disciplinary actions can result from violating the Code of Conduct?\n\nAnswer: Violations may lead to verbal warnings, written warnings, suspension, termination, or legal action depending on severity.\n\n<END>"}
+{"text": "Question: What is the purpose of the Compensation Policy?\n\nAnswer: The policy outlines the structure, components, administration, and governance of employee compensation while ensuring fairness, transparency, and consistency.\n\n<END>"}
+{"text": "Question: Who does the Compensation Policy apply to?\n\nAnswer: The policy applies to full-time, part-time, and contractual employees unless otherwise specified in individual employment agreements.\n\n<END>"}
+{"text": "Question: What is Cost to Company (CTC)?\n\nAnswer: CTC represents the total compensation package offered to an employee, including salary components, benefits, and statutory contributions.\n\n<END>"}
+{"text": "Question: What factors influence an employee's compensation package?\n\nAnswer: Compensation may vary based on role, grade, experience, location, and business requirements.\n\n<END>"}
+{"text": "Question: What are the major components of compensation at AppX?\n\nAnswer: Compensation may include fixed compensation, variable pay, one-time payments, and statutory components.\n\n<END>"}
+{"text": "Question: What is fixed compensation?\n\nAnswer: Fixed compensation includes recurring salary components such as basic pay and fixed allowances paid monthly.\n\n<END>"}
+{"text": "Question: What is variable pay?\n\nAnswer: Variable pay is performance-linked compensation based on predefined eligibility and performance criteria.\n\n<END>"}
+{"text": "Question: What are statutory components in compensation?\n\nAnswer: Statutory components include PF, Professional Tax, ESI (if applicable), and other legally mandated benefits.\n\n<END>"}
+{"text": "Question: What is Basic Pay?\n\nAnswer: Basic Pay is the primary fixed component of an employee's salary and forms the basis for several statutory benefits.\n\n<END>"}
+{"text": "Question: How is Basic Pay structured for employees in Bangalore?\n\nAnswer: Basic Pay is currently structured at 50% of the employee's Gross Pay.\n\n<END>"}
+{"text": "Question: What is included in Gross Pay for Basic Pay calculation?\n\nAnswer: Gross Pay includes Basic Pay, HRA, and fixed allowances but excludes employer PF and insurance components.\n\n<END>"}
+{"text": "Question: Does Basic Pay depend on company performance?\n\nAnswer: No. Basic Pay is a fixed and guaranteed monthly amount regardless of company or employee performance.\n\n<END>"}
+{"text": "Question: Why is Basic Pay important?\n\nAnswer: Basic Pay is used to calculate statutory benefits such as PF, gratuity, leave encashment, and other benefits.\n\n<END>"}
+{"text": "Question: Does Basic Pay affect Provident Fund contributions?\n\nAnswer: Yes. PF calculations are based on Basic Pay and applicable statutory rules.\n\n<END>"}
+{"text": "Question: Does Basic Pay affect gratuity calculations?\n\nAnswer: Yes. Gratuity calculations are based on applicable laws and Basic Pay.\n\n<END>"}
+{"text": "Question: What is House Rent Allowance (HRA)?\n\nAnswer: HRA is a salary component intended to support employees' rental accommodation expenses.\n\n<END>"}
+{"text": "Question: How is HRA calculated?\n\nAnswer: HRA is calculated as 40% of the employee's Basic Salary.\n\n<END>"}
+{"text": "Question: Will my HRA change if my Basic Salary changes?\n\nAnswer: Yes. Any revision to Basic Salary automatically impacts HRA.\n\n<END>"}
+{"text": "Question: Is HRA part of my CTC?\n\nAnswer: Yes. HRA forms part of the employee's Cost to Company and salary structure.\n\n<END>"}
+{"text": "Question: Can HRA provide tax benefits?\n\nAnswer: Yes. HRA may be partially tax-exempt under applicable income tax regulations if eligibility conditions are met.\n\n<END>"}
+{"text": "Question: What documents are required to claim HRA tax exemption?\n\nAnswer: Employees may need to provide rent receipts, rental agreements, and landlord PAN details when applicable.\n\n<END>"}
+{"text": "Question: Who is eligible for HRA tax exemption?\n\nAnswer: Employees living in rented accommodation and meeting statutory requirements may be eligible.\n\n<END>"}
+{"text": "Question: Can employees living in company-provided accommodation claim HRA exemption?\n\nAnswer: No. HRA exemption is generally intended for employees residing in rented accommodation.\n\n<END>"}
+{"text": "Question: Can HRA vary based on location?\n\nAnswer: Yes. Management may revise HRA percentages based on location, grade, or business requirements.\n\n<END>"}
+{"text": "Question: Can employees in high-cost cities receive enhanced HRA?\n\nAnswer: Yes. Employees posted in high-cost locations may receive enhanced HRA based on company guidelines.\n\n<END>"}
+{"text": "Question: What is Special Allowance?\n\nAnswer: Special Allowance is a fully taxable salary component used to balance compensation structures.\n\n<END>"}
+{"text": "Question: Is Special Allowance taxable?\n\nAnswer: Yes. Special Allowance is fully taxable.\n\n<END>"}
+{"text": "Question: Why does the company include a Special Allowance component?\n\nAnswer: It provides flexibility when designing or revising salary structures.\n\n<END>"}
+{"text": "Question: Can Special Allowance change over time?\n\nAnswer: Yes. It may be revised during salary reviews, restructuring, or policy changes.\n\n<END>"}
+{"text": "Question: Does Special Allowance represent a permanent salary component?\n\nAnswer: It may be adjusted periodically depending on organizational and compensation requirements.\n\n<END>"}
+{"text": "Question: What is the Niche Skills Allowance?\n\nAnswer: Niche Skills Allowance is a compensation component designed to recognize specialized expertise that contributes significantly to business success.\n\n<END>"}
+{"text": "Question: Why does AppX provide a Niche Skills Allowance?\n\nAnswer: It rewards employees who possess specialized skills that are valuable to projects, clients, and business objectives.\n\n<END>"}
+{"text": "Question: Who is eligible for the Niche Skills Allowance?\n\nAnswer: Employees who have completed two years of continuous service and joined AppX as freshers are eligible.\n\n<END>"}
+{"text": "Question: When do employees become eligible for the Niche Skills Allowance?\n\nAnswer: Employees become eligible after completing two years of continuous service with the organization.\n\n<END>"}
+{"text": "Question: Can employees who joined as experienced hires receive the Niche Skills Allowance?\n\nAnswer: The policy specifies eligibility for employees who joined the organization as freshers.\n\n<END>"}
+{"text": "Question: What happens if I complete two years during a quarter?\n\nAnswer: The allowance will be paid on a pro-rata basis for the eligible portion of that quarter.\n\n<END>"}
+{"text": "Question: How often is the Niche Skills Allowance paid?\n\nAnswer: The allowance is paid on a quarterly basis.\n\n<END>"}
+{"text": "Question: Is the Niche Skills Allowance amount the same for everyone?\n\nAnswer: No. The amount may vary depending on role, technology, project demand, and business requirements.\n\n<END>"}
+{"text": "Question: Can employees on notice period receive the Niche Skills Allowance?\n\nAnswer: No. Employees serving notice period are not eligible for the payout during that quarter.\n\n<END>"}
+{"text": "Question: Can resigned employees receive the Niche Skills Allowance?\n\nAnswer: No. Employees who have resigned are not eligible for the quarterly payout.\n\n<END>"}
+{"text": "Question: What is Variable Pay?\n\nAnswer: Variable Pay is performance-linked compensation applicable to employees whose compensation structure includes a variable component.\n\n<END>"}
+{"text": "Question: Is Variable Pay available to all employees?\n\nAnswer: No. It is applicable only to employees whose offer or appointment letter includes a variable pay component.\n\n<END>"}
+{"text": "Question: How is Variable Pay determined?\n\nAnswer: Variable Pay is evaluated based on individual performance, KRAs, KPIs, behavioral alignment, and management approval.\n\n<END>"}
+{"text": "Question: How often is Variable Pay evaluated?\n\nAnswer: Variable Pay is assessed on a half-yearly basis.\n\n<END>"}
+{"text": "Question: When is Variable Pay paid?\n\nAnswer: Variable Pay is paid in October for the April\u2013September cycle and in April for the October\u2013March cycle.\n\n<END>"}
+{"text": "Question: What factors affect Variable Pay payout?\n\nAnswer: Performance ratings, period served, eligibility criteria, and management approval affect the payout.\n\n<END>"}
+{"text": "Question: Must I be employed when Variable Pay is paid?\n\nAnswer: Yes. Employees must be on active payroll at the time of payout.\n\n<END>"}
+{"text": "Question: Can employees on a PIP receive Variable Pay?\n\nAnswer: No. Employees under a Performance Improvement Plan are generally not eligible.\n\n<END>"}
+{"text": "Question: Can employees on notice period receive Variable Pay?\n\nAnswer: No. Employees serving notice period are generally not eligible unless specifically approved by management.\n\n<END>"}
+{"text": "Question: Is Variable Pay calculated on a pro-rata basis?\n\nAnswer: Yes. Pro-rata calculations may apply based on joining date, unpaid leave, or role transitions.\n\n<END>"}
+{"text": "Question: What is a Retention Bonus?\n\nAnswer: A Retention Bonus is a one-time payment designed to encourage employees to remain with the organization for a specified period.\n\n<END>"}
+{"text": "Question: Is the Retention Bonus part of every employee's compensation package?\n\nAnswer: No. It is offered selectively based on business needs, role criticality, and market conditions.\n\n<END>"}
+{"text": "Question: When is the Retention Bonus paid?\n\nAnswer: The Retention Bonus is paid after completing 12 months of continuous service.\n\n<END>"}
+{"text": "Question: Do I need to complete one year to receive the Retention Bonus?\n\nAnswer: Yes. Employees must complete 12 months of continuous service.\n\n<END>"}
+{"text": "Question: What happens if I resign before completing 12 months?\n\nAnswer: You must repay the entire Retention Bonus amount received.\n\n<END>"}
+{"text": "Question: Can the company recover the Retention Bonus from my final settlement?\n\nAnswer: Yes. The organization may deduct outstanding bonus amounts from the final settlement, subject to applicable laws.\n\n<END>"}
+{"text": "Question: Is the Retention Bonus different from regular salary?\n\nAnswer: Yes. It is separate from salary, incentives, and other employee benefits.\n\n<END>"}
+{"text": "Question: Does receiving a Retention Bonus guarantee future bonuses?\n\nAnswer: No. Receiving a Retention Bonus does not create entitlement to future bonuses.\n\n<END>"}
+{"text": "Question: What are reimbursable expenses under the compensation policy?\n\nAnswer: Reimbursable expenses include approved business-related travel, accommodation, meals, office supplies, and other authorized expenses.\n\n<END>"}
+{"text": "Question: Are personal expenses eligible for reimbursement?\n\nAnswer: No. Personal expenses are not eligible for reimbursement.\n\n<END>"}
+{"text": "Question: Do reimbursable expenses require manager approval?\n\nAnswer: Yes. All reimbursement claims require prior approval from the employee's manager.\n\n<END>"}
+{"text": "Question: What happens if I submit an expense without manager approval?\n\nAnswer: Expenses submitted without proper authorization may be rejected.\n\n<END>"}
+{"text": "Question: What travel expenses can be reimbursed?\n\nAnswer: Approved airfare, train tickets, taxis, rideshares, and business-related mileage expenses may be reimbursed.\n\n<END>"}
+{"text": "Question: Can accommodation expenses be reimbursed?\n\nAnswer: Yes. Approved accommodation and lodging expenses for business travel may be reimbursed.\n\n<END>"}
+{"text": "Question: Are client meeting expenses reimbursable?\n\nAnswer: Yes. Approved meals and entertainment expenses related to client meetings may be reimbursed.\n\n<END>"}
+{"text": "Question: Can office supplies be reimbursed?\n\nAnswer: Yes. Necessary office supplies and materials required for job duties may be eligible for reimbursement.\n\n<END>"}
+{"text": "Question: What documents are required for reimbursement claims?\n\nAnswer: Original receipts or invoices along with the purpose of the expense must be submitted.\n\n<END>"}
+{"text": "Question: Is a receipt mandatory for reimbursement?\n\nAnswer: Yes. Supporting documentation is required for reimbursement processing.\n\n<END>"}
+{"text": "Question: How should reimbursement claims be submitted?\n\nAnswer: Claims should be submitted through GreytHR along with supporting documents.\n\n<END>"}
+{"text": "Question: What happens if reimbursement claims are falsified?\n\nAnswer: Misuse or falsification of expenses may result in disciplinary action.\n\n<END>"}
+{"text": "Question: What is Provident Fund (PF)?\n\nAnswer: Provident Fund is a retirement benefit scheme where both the employee and employer contribute towards long-term savings.\n\n<END>"}
+{"text": "Question: Why is Provident Fund important?\n\nAnswer: PF provides financial security for retirement, unemployment, and certain emergencies.\n\n<END>"}
+{"text": "Question: Who contributes to the Provident Fund?\n\nAnswer: Both the employee and the employer contribute to the PF account.\n\n<END>"}
+{"text": "Question: How much does AppX contribute towards Provident Fund?\n\nAnswer: AppX contributes \u20b91,800 per month towards Provident Fund.\n\n<END>"}
+{"text": "Question: How much does the employee contribute towards Provident Fund?\n\nAnswer: The employee contributes \u20b91,800 per month towards Provident Fund.\n\n<END>"}
+{"text": "Question: Can Provident Fund be withdrawn?\n\nAnswer: Yes. PF may be withdrawn according to applicable PF rules for retirement, resignation, or approved purposes.\n\n<END>"}
+{"text": "Question: What is Professional Tax (PT)?\n\nAnswer: Professional Tax is a statutory tax deducted from employee salaries as per state regulations.\n\n<END>"}
+{"text": "Question: When is Professional Tax deducted?\n\nAnswer: Professional Tax is deducted monthly from eligible employees.\n\n<END>"}
+{"text": "Question: How much Professional Tax is deducted in Karnataka?\n\nAnswer: Employees earning \u20b915,000 or more per month are subject to a Professional Tax deduction of \u20b9200 per month.\n\n<END>"}
+{"text": "Question: Is Professional Tax applicable to all employees?\n\nAnswer: No. It depends on salary slabs and applicable state regulations.\n\n<END>"}
+{"text": "Question: What is Gratuity?\n\nAnswer: Gratuity is a statutory benefit paid to eligible employees upon completion of qualifying service.\n\n<END>"}
+{"text": "Question: When does an employee become eligible for gratuity?\n\nAnswer: Employees become eligible after completing five years of service.\n\n<END>"}
+{"text": "Question: How is gratuity calculated?\n\nAnswer: Gratuity is calculated according to the Payment of Gratuity Act and applicable statutory provisions.\n\n<END>"}
+{"text": "Question: When is salary normally credited by AppX?\n\nAnswer: Salary is typically disbursed on or before the 7th of every month.\n\n<END>"}
+{"text": "Question: How often is salary paid?\n\nAnswer: Salary is paid on a monthly basis.\n\n<END>"}
+{"text": "Question: How can employees access their payslips?\n\nAnswer: Payslips are made available digitally.\n\n<END>"}
+{"text": "Question: Are statutory deductions reflected in payroll?\n\nAnswer: Yes. Statutory deductions are made according to applicable laws and reflected in payroll processing.\n\n<END>"}
+{"text": "Question: What happens if there is a payroll correction or arrear?\n\nAnswer: Corrections and arrears are adjusted in subsequent payroll cycles.\n\n<END>"}
+{"text": "Question: How often does AppX review employee compensation?\n\nAnswer: Compensation reviews are generally conducted once a year.\n\n<END>"}
+{"text": "Question: What factors influence annual compensation reviews?\n\nAnswer: Reviews consider individual performance, company performance, inflation, market benchmarks, and business conditions.\n\n<END>"}
+{"text": "Question: What is the purpose of the WFH policy?\n\nAnswer: The policy provides guidelines for employees to work from home while maintaining productivity, professionalism, and work-life balance.\n\n<END>"}
+{"text": "Question: Why does AppX offer Work From Home options?\n\nAnswer: AppX recognizes the importance of flexibility in supporting employee productivity and work-life balance.\n\n<END>"}
+{"text": "Question: How many WFH days do male employees receive annually?\n\nAnswer: Male employees are eligible for 12 WFH days annually.\n\n<END>"}
+{"text": "Question: How many WFH days do female employees receive annually?\n\nAnswer: Female employees are eligible for 18 WFH days annually.\n\n<END>"}
+{"text": "Question: When are annual WFH days credited?\n\nAnswer: WFH days are credited at the start of the year.\n\n<END>"}
+{"text": "Question: Do mid-year joiners receive WFH days?\n\nAnswer: Yes, mid-year joiners receive WFH days on a pro-rata basis.\n\n<END>"}
+{"text": "Question: How are WFH days calculated for new joiners?\n\nAnswer: WFH days are allocated proportionately based on the joining date and remaining period in the year.\n\n<END>"}
+{"text": "Question: Can employees receive additional WFH days?\n\nAnswer: Yes, existing employees may receive additional WFH days based on completed months of service.\n\n<END>"}
+{"text": "Question: How are additional WFH days calculated for existing employees?\n\nAnswer: Additional WFH days are equal to the total months of service completed as of December 31st of the preceding year.\n\n<END>"}
+{"text": "Question: How many WFH days would a male employee receive after completing 15 months of service?\n\nAnswer: The employee would receive 27 WFH days: 12 regular days plus 15 additional days.\n\n<END>"}
+{"text": "Question: How many WFH days would a female employee receive after completing 15 months of service?\n\nAnswer: The employee would receive 33 WFH days: 18 regular days plus 15 additional days.\n\n<END>"}
+{"text": "Question: Is there a limit on additional WFH days?\n\nAnswer: Yes, the maximum annual allocation of additional WFH days is capped at 60.\n\n<END>"}
+{"text": "Question: How do I apply for WFH?\n\nAnswer: WFH requests should be submitted through GreytHR.\n\n<END>"}
+{"text": "Question: When should planned WFH requests be submitted?\n\nAnswer: Requests beyond two days should be submitted at least two weeks in advance.\n\n<END>"}
+{"text": "Question: What is considered a long-term WFH request?\n\nAnswer: Any request for three or more consecutive WFH days is considered long-term WFH.\n\n<END>"}
+{"text": "Question: Does long-term WFH require approval?\n\nAnswer: Yes, long-term WFH must be discussed with and approved by the Delivery Lead before submission in GreytHR.\n\n<END>"}
+{"text": "Question: Who approves long-term WFH requests?\n\nAnswer: The Delivery Lead must approve long-term WFH requests.\n\n<END>"}
+{"text": "Question: What happens if I exceed my annual WFH allocation?\n\nAnswer: Additional days will be treated as half-day leave and recorded in GreytHR.\n\n<END>"}
+{"text": "Question: Can I continue taking WFH after exhausting my allocation?\n\nAnswer: Yes, but excess days will be converted into half-day leave according to the policy.\n\n<END>"}
+{"text": "Question: What is Special Work From Home (SWFH)?\n\nAnswer: SWFH is an additional WFH benefit provided under specific personal circumstances such as marriage, childbirth, or bereavement.\n\n<END>"}
+{"text": "Question: How much SWFH is available for marriage?\n\nAnswer: Employees are eligible for up to three weeks of SWFH for marriage.\n\n<END>"}
+{"text": "Question: When can marriage-related SWFH be used?\n\nAnswer: It can be utilized within one month before or after the wedding.\n\n<END>"}
+{"text": "Question: What WFH benefit is available after childbirth?\n\nAnswer: Employees are entitled to four weeks of additional WFH as a paternity benefit.\n\n<END>"}
+{"text": "Question: When can childbirth-related WFH be used?\n\nAnswer: It can be utilized within six months of the child's birth.\n\n<END>"}
+{"text": "Question: Is bereavement WFH available?\n\nAnswer: Yes, employees may receive up to 10 days of WFH after the death of an immediate family member.\n\n<END>"}
+{"text": "Question: Who qualifies as an immediate family member for bereavement WFH?\n\nAnswer: Parents, spouse, siblings, and children qualify as immediate family members.\n\n<END>"}
+{"text": "Question: How many days of bereavement WFH can an employee receive?\n\nAnswer: Employees may receive up to 10 days of WFH.\n\n<END>"}
+{"text": "Question: Can SWFH be carried forward to the next year?\n\nAnswer: No, unused WFH and SWFH cannot be carried forward to the following calendar year.\n\n<END>"}
+{"text": "Question: Do unused WFH days expire?\n\nAnswer: Yes, unused WFH days lapse at the end of the calendar year.\n\n<END>"}
+{"text": "Question: Are employees guaranteed WFH regardless of job role?\n\nAnswer: No, employees in roles requiring on-site presence must follow project or client requirements.\n\n<END>"}
+{"text": "Question: How many breaks are allowed while working from home?\n\nAnswer: Employees are allowed a maximum of two breaks per day while working from home.\n\n<END>"}
+{"text": "Question: What is the allowed duration for an evening break during WFH?\n\nAnswer: Evening breaks should be limited to 15\u201320 minutes.\n\n<END>"}
+{"text": "Question: What is the allowed duration for a dinner break during WFH?\n\nAnswer: Dinner breaks should be limited to 30\u201340 minutes.\n\n<END>"}
+{"text": "Question: Can I take additional breaks while working from home?\n\nAnswer: Additional breaks require prior approval from project stakeholders.\n\n<END>"}
+{"text": "Question: Do I need approval for extra breaks during WFH?\n\nAnswer: Yes, approval from project stakeholders is required for additional breaks.\n\n<END>"}
+{"text": "Question: What internet requirements apply while working from home?\n\nAnswer: Employees must ensure stable internet connectivity to maintain productivity.\n\n<END>"}
+{"text": "Question: Am I responsible for maintaining a reliable internet connection while working remotely?\n\nAnswer: Yes, employees are responsible for maintaining stable internet connectivity.\n\n<END>"}
+{"text": "Question: What kind of work environment is required during WFH?\n\nAnswer: Employees should work from a noise-free environment to avoid disruptions.\n\n<END>"}
+{"text": "Question: Can background noise affect my WFH eligibility?\n\nAnswer: Employees are expected to maintain a professional and distraction-free work environment.\n\n<END>"}
+{"text": "Question: Am I required to attend meetings while working remotely?\n\nAnswer: Yes, timely attendance at all scheduled meetings is mandatory.\n\n<END>"}
+{"text": "Question: Can I skip meetings while working from home?\n\nAnswer: No, employees must attend all scheduled meetings on time.\n\n<END>"}
+{"text": "Question: How should breaks be planned during WFH?\n\nAnswer: Breaks should be scheduled around meetings to avoid interruptions.\n\n<END>"}
+{"text": "Question: Can meetings be missed because of break timings?\n\nAnswer: No, breaks should not interfere with scheduled meetings.\n\n<END>"}
+{"text": "Question: Are employees in client-facing roles always eligible for WFH?\n\nAnswer: Employees whose roles require on-site presence must follow project or client requirements.\n\n<END>"}
+{"text": "Question: Can project requirements override WFH eligibility?\n\nAnswer: Yes, project and client requirements may require employees to work on-site.\n\n<END>"}
+{"text": "Question: Is there a monthly limit on WFH usage?\n\nAnswer: Yes, WFH is limited to 5 days within a 30-day period, excluding special circumstances.\n\n<END>"}
+{"text": "Question: How many WFH days can I use within a 30-day period?\n\nAnswer: Employees can use up to 5 WFH days within 30 days unless special circumstances apply.\n\n<END>"}
+{"text": "Question: Do special circumstances affect the 5-day WFH limit?\n\nAnswer: Yes, approved special circumstances may be exempt from the standard limit.\n\n<END>"}
+{"text": "Question: Are bench employees eligible for WFH?\n\nAnswer: No, bench resources are generally not eligible for WFH except under special circumstances.\n\n<END>"}
+{"text": "Question: Can employees on the bench apply for WFH?\n\nAnswer: Bench employees are normally not eligible for WFH benefits.\n\n<END>"}
+{"text": "Question: Are there exceptions for bench employees regarding WFH?\n\nAnswer: Yes, exceptions may be allowed under special circumstances.\n\n<END>"}
+{"text": "Question: Do female interns receive WFH benefits?\n\nAnswer: Female employees working as interns are entitled to one WFH day per month if not allocated to a project.\n\n<END>"}
+{"text": "Question: How many WFH days can a female intern receive?\n\nAnswer: Eligible female interns may receive one WFH day per month.\n\n<END>"}
+{"text": "Question: Are female employees without project allocation eligible for WFH?\n\nAnswer: Yes, eligible female employees not allocated to a project may receive one WFH day per month.\n\n<END>"}
+{"text": "Question: Can unused WFH days be carried forward?\n\nAnswer: No, unused WFH days cannot be carried forward to the next calendar year.\n\n<END>"}
+{"text": "Question: Can unused Special WFH days be carried forward?\n\nAnswer: No, unused SWFH days also expire at the end of the calendar year.\n\n<END>"}
+{"text": "Question: What happens to unused WFH days at year-end?\n\nAnswer: Unused WFH days lapse and are not carried forward.\n\n<END>"}
+{"text": "Question: Can WFH privileges be revoked?\n\nAnswer: Yes, WFH privileges may be revoked under certain circumstances.\n\n<END>"}
+{"text": "Question: What can cause WFH privileges to be revoked?\n\nAnswer: Client escalations caused by unavailability, network issues, audio disruptions, or delayed responses may lead to revocation.\n\n<END>"}
+{"text": "Question: Who can revoke an employee's WFH privileges?\n\nAnswer: Delivery Managers have the authority to revoke WFH privileges when justified by client escalations.\n\n<END>"}
+{"text": "Question: What is the purpose of the Food Policy?\n\nAnswer: The policy defines meal provisions, subscription costs, and food coupon collection procedures for employees and interns.\n\n<END>"}
+{"text": "Question: Who is covered under the Food Policy?\n\nAnswer: The policy applies to all employees and interns at AppXcelerate Solutions Pvt Ltd.\n\n<END>"}
+{"text": "Question: Is food provided free of cost to new joiners?\n\nAnswer: Yes. New joiners receive food free of cost during their initial joining calendar month.\n\n<END>"}
+{"text": "Question: How long do new joiners receive free meals?\n\nAnswer: Free meals are provided during the employee's joining calendar month.\n\n<END>"}
+{"text": "Question: Do interns receive free meals?\n\nAnswer: Yes. Food is provided free of cost for the entire internship period.\n\n<END>"}
+{"text": "Question: How much does lunch cost for full-time employees?\n\nAnswer: Lunch is charged at a subsidized rate of \u20b9750 per month.\n\n<END>"}
+{"text": "Question: How much does dinner cost for full-time employees?\n\nAnswer: Dinner is charged at a subsidized rate of \u20b9750 per month.\n\n<END>"}
+{"text": "Question: How much does it cost to subscribe to both lunch and dinner?\n\nAnswer: Employees are charged \u20b91,500 per month for both meals.\n\n<END>"}
+{"text": "Question: Is food charged daily or monthly?\n\nAnswer: Food is provided through a monthly subscription model.\n\n<END>"}
+{"text": "Question: If I eat only one meal in a month, will I still pay the full amount?\n\nAnswer: Yes. Charges are not prorated and the full monthly subscription amount applies.\n\n<END>"}
+{"text": "Question: Can I pay only for the days I consume food?\n\nAnswer: No. The food service operates on a monthly subscription basis.\n\n<END>"}
+{"text": "Question: Are food charges prorated based on usage?\n\nAnswer: No. Food charges are non-prorated.\n\n<END>"}
+{"text": "Question: Where can I collect food coupons?\n\nAnswer: Food coupons must be collected from the Admin Cabin.\n\n<END>"}
+{"text": "Question: When are food coupons available for collection?\n\nAnswer: Food coupons are available from the 27th of every month.\n\n<END>"}
+{"text": "Question: What happens if the 27th falls on a holiday?\n\nAnswer: Coupons will be available on the next working day.\n\n<END>"}
+{"text": "Question: Is there a special coupon collection date for February?\n\nAnswer: Yes. For February, coupons are available from the 25th.\n\n<END>"}
+{"text": "Question: When does coupon collection close?\n\nAnswer: Coupon issuance closes on the 3rd of the subsequent month.\n\n<END>"}
+{"text": "Question: What happens if the 3rd is a holiday?\n\nAnswer: The coupon collection window closes on the next working day.\n\n<END>"}
+{"text": "Question: What if I collect coupons but do not consume the meals?\n\nAnswer: The monthly subscription amount will still be deducted.\n\n<END>"}
+{"text": "Question: Will the company refund meal charges if I don't use my coupons?\n\nAnswer: No. The company is not responsible for unused food coupons.\n\n<END>"}
+{"text": "Question: How can I opt out of the food subscription?\n\nAnswer: Employees must send an official email to the Admin Team on or before the 25th of the current month.\n\n<END>"}
+{"text": "Question: What is the deadline to cancel next month's food subscription?\n\nAnswer: The cancellation request must be submitted on or before the 25th of the current month.\n\n<END>"}
+{"text": "Question: Can I opt out after the 25th of the month?\n\nAnswer: No. Requests submitted after the deadline may not be considered for the following month.\n\n<END>"}
+{"text": "Question: What happens if I forget to opt out before the deadline?\n\nAnswer: The subscription will automatically renew for the next month.\n\n<END>"}
+{"text": "Question: Will food charges still be deducted if I don't collect my coupons?\n\nAnswer: Yes. Charges will be deducted if the subscription was not cancelled before the deadline.\n\n<END>"}
+{"text": "Question: How does automatic renewal work for food subscriptions?\n\nAnswer: Failure to opt out by email before the 25th results in automatic renewal.\n\n<END>"}
+{"text": "Question: Can I cancel my food subscription through WhatsApp?\n\nAnswer: No. Requests sent through WhatsApp are not accepted.\n\n<END>"}
+{"text": "Question: What is the official channel for food subscription changes?\n\nAnswer: Requests must be sent through official email to the Admin Team.\n\n<END>"}
+{"text": "Question: Can I send a cancellation request to the Admin Team's personal number?\n\nAnswer: No. Only official email requests are accepted.\n\n<END>"}
+{"text": "Question: What are the official lunch timings?\n\nAnswer: Lunch is served from 12:45 PM to 2:00 PM.\n\n<END>"}
+{"text": "Question: What are the official dinner timings?\n\nAnswer: Dinner is served from 7:45 PM to 10:15 PM.\n\n<END>"}
+{"text": "Question: Why should employees follow the official meal timings?\n\nAnswer: Following official timings helps ensure proper meal service and operations.\n\n<END>"}
+{"text": "Question: What should I do if food is unavailable during official timings?\n\nAnswer: You should immediately inform the Admin Team.\n\n<END>"}
+{"text": "Question: Can I order food externally if office food is unavailable?\n\nAnswer: Yes. Employees may order food externally if office food is unavailable during official timings.\n\n<END>"}
+{"text": "Question: Am I eligible for reimbursement if office food is unavailable?\n\nAnswer: Yes. Employees may claim reimbursement for externally ordered food when office food is unavailable.\n\n<END>"}
+{"text": "Question: How do I claim reimbursement for unavailable office food?\n\nAnswer: Reimbursement claims should be submitted through the GreytHR portal.\n\n<END>"}
+{"text": "Question: Is prior notification required before claiming food reimbursement?\n\nAnswer: Yes. Employees should inform the Admin Team immediately when food is unavailable.\n\n<END>"}
+{"text": "Question: Does the food policy apply to interns?\n\nAnswer: Yes. Interns are covered under the policy and receive free meals during their internship.\n\n<END>"}
+{"text": "Question: Are meal subscriptions mandatory for employees?\n\nAnswer: No. Employees may opt out by following the prescribed process and timeline.\n\n<END>"}
+{"text": "Question: Who manages the food subscription process?\n\nAnswer: The Admin Team manages coupon collection, subscription changes, and related food services.\n\n<END>"}
+{"text": "Question: What is the purpose of the Food Reimbursement Policy?\n\nAnswer: The policy defines the rules and procedures for reimbursing food expenses incurred while performing official duties.\n\n<END>"}
+{"text": "Question: Who is eligible for food reimbursement?\n\nAnswer: Employees who have opted for company lunch and/or dinner provisions and meet the policy requirements are eligible.\n\n<END>"}
+{"text": "Question: What is the maximum reimbursement amount per meal?\n\nAnswer: Employees can claim up to \u20b9175 per meal or the actual amount incurred, whichever is lower.\n\n<END>"}
+{"text": "Question: Can I claim reimbursement above \u20b9175 for a meal?\n\nAnswer: No. Reimbursement is limited to \u20b9175 per meal or the actual expense incurred, whichever is lower.\n\n<END>"}
+{"text": "Question: Is reimbursement based on actual expenses?\n\nAnswer: Yes, but reimbursement cannot exceed \u20b9175 per meal.\n\n<END>"}
+{"text": "Question: When am I eligible for food reimbursement?\n\nAnswer: Reimbursement is available only when food is consumed for official work purposes and other policy conditions are met.\n\n<END>"}
+{"text": "Question: Are personal meals eligible for reimbursement?\n\nAnswer: No. Reimbursement applies only to meals consumed for official work purposes.\n\n<END>"}
+{"text": "Question: Does reimbursement apply to all employees?\n\nAnswer: No. It applies only to employees enrolled in the company's meal program.\n\n<END>"}
+{"text": "Question: Can employees who have not subscribed to company meals claim reimbursement?\n\nAnswer: No. Eligibility is limited to employees who have opted for company lunch and/or dinner provisions.\n\n<END>"}
+{"text": "Question: When can food reimbursement be claimed?\n\nAnswer: Reimbursement can be claimed when office food is unavailable during official meal timings.\n\n<END>"}
+{"text": "Question: Do I need to inform anyone before claiming reimbursement?\n\nAnswer: Yes. Employees must inform the Admin Team in advance or at the time of the requirement.\n\n<END>"}
+{"text": "Question: What happens if I don't inform the Admin Team?\n\nAnswer: Failure to notify the Admin Team may impact reimbursement eligibility.\n\n<END>"}
+{"text": "Question: Are there time restrictions for reimbursement claims?\n\nAnswer: Yes. Reimbursement applies only when food is consumed during official meal timings.\n\n<END>"}
+{"text": "Question: What are the official meal timings for reimbursement eligibility?\n\nAnswer: Employees must consume meals during the official meal timings defined in the Food Policy.\n\n<END>"}
+{"text": "Question: Can I claim reimbursement for meals consumed outside official hours?\n\nAnswer: No. Meals consumed before or after official meal timings are not eligible.\n\n<END>"}
+{"text": "Question: Is reimbursement available for late-night meals outside official hours?\n\nAnswer: No. Only meals consumed during approved timings qualify.\n\n<END>"}
+{"text": "Question: What proof is required for a reimbursement claim?\n\nAnswer: A valid tax invoice or bill must be submitted for every claim.\n\n<END>"}
+{"text": "Question: Is an invoice mandatory for reimbursement?\n\nAnswer: Yes. A valid invoice or bill is required.\n\n<END>"}
+{"text": "Question: Can I submit a payment screenshot instead of an invoice?\n\nAnswer: No. Payment screenshots are not accepted as proof of expense.\n\n<END>"}
+{"text": "Question: Are UPI payment screenshots accepted for reimbursement?\n\nAnswer: No. UPI screenshots alone are not considered valid documentation.\n\n<END>"}
+{"text": "Question: Can I claim reimbursement for online food orders?\n\nAnswer: Yes, provided the order includes a valid invoice or order history.\n\n<END>"}
+{"text": "Question: What documentation is needed for online food orders?\n\nAnswer: Employees must provide a valid invoice or order history showing the expense details.\n\n<END>"}
+{"text": "Question: How do I submit a food reimbursement claim?\n\nAnswer: Claims must be submitted through the GreytHR portal.\n\n<END>"}
+{"text": "Question: Can reimbursement claims be submitted through email?\n\nAnswer: No. Claims should be submitted through the GreytHR system.\n\n<END>"}
+{"text": "Question: What happens if I submit a claim without proper documentation?\n\nAnswer: Claims lacking proper documentation will not be processed.\n\n<END>"}
+{"text": "Question: Will claims submitted outside GreytHR be accepted?\n\nAnswer: No. Claims must be submitted through the designated system.\n\n<END>"}
+{"text": "Question: When are approved reimbursements processed?\n\nAnswer: Approved reimbursements are processed between the 6th and 10th of the following month.\n\n<END>"}
+{"text": "Question: Are reimbursement payments included in salary?\n\nAnswer: No. Reimbursements are processed separately from regular payroll.\n\n<END>"}
+{"text": "Question: Can exceptions be made to the reimbursement policy?\n\nAnswer: Yes. Exceptions require prior approval from the Reporting Manager or HR.\n\n<END>"}
+{"text": "Question: Can the company reject a reimbursement claim?\n\nAnswer: Yes. The company may reject claims that do not comply with policy requirements.\n\n<END>"}
+{"text": "Question: What is the purpose of the Leave and Encashment Policy?\n\nAnswer: The policy outlines guidelines for leave entitlements, leave encashment, and compensatory offs while ensuring transparency, compliance, and fairness.\n\n<END>"}
+{"text": "Question: Who is covered under the Leave and Encashment Policy?\n\nAnswer: The policy applies to employees of AppXcelerate Solutions Pvt Ltd.\n\n<END>"}
+{"text": "Question: How many Earned Leaves am I entitled to each year?\n\nAnswer: Employees are entitled to 16 Earned Leaves annually.\n\n<END>"}
+{"text": "Question: What are Earned Leaves (EL)?\n\nAnswer: Earned Leaves are leave days provided for personal reasons, vacations, or planned absences.\n\n<END>"}
+{"text": "Question: Can I use Earned Leave for personal work?\n\nAnswer: Yes, Earned Leaves can be used for personal reasons and planned absences.\n\n<END>"}
+{"text": "Question: Can I use Earned Leave for a vacation?\n\nAnswer: Yes, Earned Leaves may be used for vacations.\n\n<END>"}
+{"text": "Question: How many Sick Leaves do employees receive annually?\n\nAnswer: Employees are entitled to 6 Sick Leaves annually.\n\n<END>"}
+{"text": "Question: What are Sick Leaves meant for?\n\nAnswer: Sick Leaves are intended for medical reasons and illness-related absences.\n\n<END>"}
+{"text": "Question: Can Sick Leave be used for personal work?\n\nAnswer: No, Sick Leaves are intended specifically for medical reasons.\n\n<END>"}
+{"text": "Question: When is a medical certificate required for Sick Leave?\n\nAnswer: A medical certificate may be required for absences exceeding two consecutive days.\n\n<END>"}
+{"text": "Question: Do I need to provide proof for extended sick leave?\n\nAnswer: Yes, a medical certificate may be requested for absences longer than two consecutive days.\n\n<END>"}
+{"text": "Question: What is leave encashment?\n\nAnswer: Leave encashment is the process of converting eligible unused Earned Leaves into monetary compensation.\n\n<END>"}
+{"text": "Question: Who is eligible for leave encashment?\n\nAnswer: Employees are eligible for encashment of unused Earned Leaves according to the policy rules.\n\n<END>"}
+{"text": "Question: How is leave encashment calculated for office-based employees?\n\nAnswer: It is calculated based on the employee's last drawn Gross CTC.\n\n<END>"}
+{"text": "Question: How is leave encashment calculated for work-from-home employees?\n\nAnswer: It is calculated based on the employee's basic salary.\n\n<END>"}
+{"text": "Question: How is leave encashment calculated for hybrid employees?\n\nAnswer: It is calculated based on the employee's basic salary.\n\n<END>"}
+{"text": "Question: Which salary component is used for leave encashment for office employees?\n\nAnswer: Last drawn Gross CTC is used for office-based employees.\n\n<END>"}
+{"text": "Question: Which salary component is used for leave encashment for WFH employees?\n\nAnswer: Basic salary is used for WFH and hybrid employees.\n\n<END>"}
+{"text": "Question: When are Earned Leaves encashed?\n\nAnswer: Earned Leaves are encashed at the end of the calendar year.\n\n<END>"}
+{"text": "Question: How often is leave encashment processed?\n\nAnswer: Leave encashment is processed annually at the end of the calendar year.\n\n<END>"}
+{"text": "Question: Are Sick Leaves eligible for encashment?\n\nAnswer: No, Sick Leaves are not eligible for encashment.\n\n<END>"}
+{"text": "Question: Can I convert unused Sick Leave into cash?\n\nAnswer: No, Sick Leaves cannot be encashed.\n\n<END>"}
+{"text": "Question: Can unused Sick Leaves be carried forward?\n\nAnswer: No, unused Sick Leaves cannot be carried forward to the next year.\n\n<END>"}
+{"text": "Question: What happens to unused Sick Leaves at year-end?\n\nAnswer: Unused Sick Leaves lapse and cannot be carried forward or encashed.\n\n<END>"}
+{"text": "Question: What is a Comp Off?\n\nAnswer: A Comp Off is compensatory leave granted to employees who work on approved holidays or weekends.\n\n<END>"}
+{"text": "Question: Who is eligible for a Comp Off?\n\nAnswer: Employees who work on a company-declared holiday or weekend with prior client approval are eligible.\n\n<END>"}
+{"text": "Question: Can I get a Comp Off for working on a weekend?\n\nAnswer: Yes, provided prior client approval was obtained.\n\n<END>"}
+{"text": "Question: Can I get a Comp Off for working on a company holiday?\n\nAnswer: Yes, if the work was approved by the client beforehand.\n\n<END>"}
+{"text": "Question: Is client approval mandatory for Comp Off eligibility?\n\nAnswer: Yes, prior client approval is required.\n\n<END>"}
+{"text": "Question: What proof is required to request a Comp Off?\n\nAnswer: The request must be supported by a timesheet reflecting client approval.\n\n<END>"}
+{"text": "Question: Do I need a timesheet to claim a Comp Off?\n\nAnswer: Yes, a supporting timesheet is required.\n\n<END>"}
+{"text": "Question: How long is a Comp Off valid?\n\nAnswer: A Comp Off must be used within 90 days of being credited.\n\n<END>"}
+{"text": "Question: When should I use my Comp Off?\n\nAnswer: It should be availed within 90 days from the credit date.\n\n<END>"}
+{"text": "Question: What happens if I don't use my Comp Off within 90 days?\n\nAnswer: Employees should utilize Comp Off within the validity period specified by the policy.\n\n<END>"}
+{"text": "Question: Can a Comp Off be carried forward to the next year?\n\nAnswer: Yes, if its validity extends into the next year.\n\n<END>"}
+{"text": "Question: Under what circumstances can a Comp Off be carried forward?\n\nAnswer: It can be carried forward if its 90-day validity period extends into the next calendar year.\n\n<END>"}
+{"text": "Question: Are Comp Offs eligible for encashment?\n\nAnswer: No, Comp Offs cannot be encashed.\n\n<END>"}
+{"text": "Question: Can I receive money instead of using a Comp Off?\n\nAnswer: No, Comp Offs are not eligible for encashment.\n\n<END>"}
+{"text": "Question: How should leave requests be submitted?\n\nAnswer: Leave requests should be submitted through the company's HR portal.\n\n<END>"}
+{"text": "Question: Do leave requests require approval?\n\nAnswer: Yes, leave requests must be approved through the HR process.\n\n<END>"}
+{"text": "Question: Should leave requests be submitted in advance?\n\nAnswer: Yes, leave requests should be submitted and approved in advance whenever possible.\n\n<END>"}
+{"text": "Question: Are there exceptions to advance leave approval?\n\nAnswer: Yes, emergencies and Sick Leave situations may be exceptions.\n\n<END>"}
+{"text": "Question: Can Sick Leave be taken without prior approval?\n\nAnswer: Sick Leave may be exempt from advance approval requirements due to its nature.\n\n<END>"}
+{"text": "Question: What should I do in case of a leave emergency?\n\nAnswer: You should follow the company's emergency leave procedures and notify appropriate stakeholders.\n\n<END>"}
+{"text": "Question: What happens if employees misuse leave benefits?\n\nAnswer: Misuse of leave benefits may result in disciplinary action.\n\n<END>"}
+{"text": "Question: Can policy violations related to leave lead to disciplinary action?\n\nAnswer: Yes, failure to comply with leave policies may result in disciplinary measures.\n\n<END>"}
+{"text": "Question: Does the company have the right to modify the leave policy?\n\nAnswer: Yes, the company reserves the right to amend the policy at its discretion.\n\n<END>"}
+{"text": "Question: Can leave entitlements change in the future?\n\nAnswer: Yes, policy provisions may be updated by the company when necessary.\n\n<END>"}
+{"text": "Question: Is the leave policy subject to revision?\n\nAnswer: Yes, the company may revise the policy from time to time.\n\n<END>"}
+{"text": "Question: Where should employees check for leave policy updates?\n\nAnswer: Employees should refer to official company communications and HR announcements.\n\n<END>"}
+{"text": "Question: What is the purpose of the Notice Period Policy?\n\nAnswer: The policy defines the notice period requirements that employees must follow when resigning from the company.\n\n<END>"}
+{"text": "Question: Who does the Notice Period Policy apply to?\n\nAnswer: The policy applies to all employees of AppXcelerate Solutions Pvt Ltd unless otherwise specified in their employment contract.\n\n<END>"}
+{"text": "Question: What is the required notice period at AppX?\n\nAnswer: Employees are required to serve a 90-day notice period upon resignation.\n\n<END>"}
+{"text": "Question: When does the notice period start?\n\nAnswer: The notice period begins from the date of resignation.\n\n<END>"}
+{"text": "Question: How long do I need to work after submitting my resignation?\n\nAnswer: Employees are required to serve 90 days from the resignation date.\n\n<END>"}
+{"text": "Question: Is the notice period mandatory for all employees?\n\nAnswer: Yes, unless an employment contract specifies otherwise or management approves an exception.\n\n<END>"}
+{"text": "Question: What happens if I do not complete the full notice period?\n\nAnswer: You will be required to compensate the company for the unserved portion of the notice period.\n\n<END>"}
+{"text": "Question: How is notice period compensation calculated?\n\nAnswer: Compensation is calculated based on the employee's salary for the unserved portion of the 90-day notice period.\n\n<END>"}
+{"text": "Question: Do I need to pay the company if I leave before completing 90 days?\n\nAnswer: Yes, unless the company waives or adjusts the notice period.\n\n<END>"}
+{"text": "Question: Can the company recover salary for the unserved notice period?\n\nAnswer: Yes, employees are required to compensate the company for any unserved portion.\n\n<END>"}
+{"text": "Question: Can the company waive my notice period?\n\nAnswer: Yes, the company may waive the notice period based on business requirements.\n\n<END>"}
+{"text": "Question: Does management have the authority to reduce the notice period?\n\nAnswer: Yes, management may adjust the notice period at its discretion.\n\n<END>"}
+{"text": "Question: Is early release automatically approved if I request it?\n\nAnswer: No, early release requests are subject to company approval.\n\n<END>"}
+{"text": "Question: Can the company reject my request for early release?\n\nAnswer: Yes, the company may deny early release if it affects ongoing projects or operations.\n\n<END>"}
+{"text": "Question: Why might an early release request be denied?\n\nAnswer: It may be denied if the employee's exit could negatively impact project delivery or business operations.\n\n<END>"}
+{"text": "Question: Can project requirements affect my release date?\n\nAnswer: Yes, project and operational requirements may influence release decisions.\n\n<END>"}
+{"text": "Question: Who decides whether a notice period can be reduced?\n\nAnswer: The decision is made by management based on business needs.\n\n<END>"}
+{"text": "Question: Does the company have discretion over notice period adjustments?\n\nAnswer: Yes, notice period adjustments are at the sole discretion of the company.\n\n<END>"}
+{"text": "Question: Are notice period modifications allowed?\n\nAnswer: Yes, but they must be formally approved.\n\n<END>"}
+{"text": "Question: How should notice period changes be approved?\n\nAnswer: Any modifications must be approved in writing by management.\n\n<END>"}
+{"text": "Question: Is verbal approval sufficient for changing the notice period?\n\nAnswer: No, modifications require written approval from management.\n\n<END>"}
+{"text": "Question: Can different employees have different notice periods?\n\nAnswer: Only if their employment contract specifically states a different requirement.\n\n<END>"}
+{"text": "Question: Does this policy override employment contracts?\n\nAnswer: No, employment contracts may contain specific notice period provisions that take precedence.\n\n<END>"}
+{"text": "Question: What should I do if my employment contract specifies a different notice period?\n\nAnswer: You should follow the terms outlined in your employment contract.\n\n<END>"}
+{"text": "Question: Does the policy apply uniformly across the company?\n\nAnswer: Yes, the policy applies uniformly unless otherwise specified in an employee's contract.\n\n<END>"}
+{"text": "Question: What is sexual harassment according to the POSH policy?\n\nAnswer: Sexual harassment is any unwelcome act or behavior of a sexual nature where the impact on the victim matters more than the intent.\n\n<END>"}
+{"text": "Question: What does the POSH policy aim to prevent?\n\nAnswer: The policy aims to prevent, prohibit, and address sexual harassment in the workplace.\n\n<END>"}
+{"text": "Question: Does intent matter in sexual harassment cases?\n\nAnswer: The policy emphasizes that the impact of the behavior matters more than the intent.\n\n<END>"}
+{"text": "Question: What are examples of sexual harassment?\n\nAnswer: Examples include unwanted physical contact, sexually colored remarks, stalking, pornography, vulgar jokes, and requests for sexual favors.\n\n<END>"}
+{"text": "Question: Can offensive jokes be considered sexual harassment?\n\nAnswer: Yes, vulgar or indecent jokes may constitute sexual harassment.\n\n<END>"}
+{"text": "Question: Is stalking considered sexual harassment?\n\nAnswer: Yes, stalking is listed as a form of sexual harassment.\n\n<END>"}
+{"text": "Question: Can sexually explicit emails or messages be considered harassment?\n\nAnswer: Yes, inappropriate emails, messages, and digital communication may constitute sexual harassment.\n\n<END>"}
+{"text": "Question: Can showing pornography at work be considered harassment?\n\nAnswer: Yes, showing pornography or similar material is considered sexual harassment.\n\n<END>"}
+{"text": "Question: What is a hostile work environment?\n\nAnswer: A hostile work environment is one where harassment interferes with work or creates intimidation, humiliation, or discomfort.\n\n<END>"}
+{"text": "Question: Can threats related to employment be considered harassment?\n\nAnswer: Yes, explicit or implied threats affecting employment status may constitute sexual harassment.\n\n<END>"}
+{"text": "Question: Which laws govern sexual harassment at the workplace?\n\nAnswer: The POSH Act 2013, relevant IPC sections, and the Industrial Employment Act govern workplace sexual harassment.\n\n<END>"}
+{"text": "Question: What is the POSH Act?\n\nAnswer: The POSH Act is the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013.\n\n<END>"}
+{"text": "Question: What is considered a workplace under this policy?\n\nAnswer: Workplace includes company offices, branches, project sites, official events, company-provided transportation, and accommodations.\n\n<END>"}
+{"text": "Question: Does the policy apply outside the office premises?\n\nAnswer: Yes, it applies to official events, business travel, and other work-related locations.\n\n<END>"}
+{"text": "Question: Does company transportation count as a workplace?\n\nAnswer: Yes, company-provided transportation is considered part of the workplace.\n\n<END>"}
+{"text": "Question: What is the Internal Complaints Committee (ICC)?\n\nAnswer: The ICC is the committee responsible for handling sexual harassment complaints.\n\n<END>"}
+{"text": "Question: Why does the company have an ICC?\n\nAnswer: The ICC ensures complaints are investigated fairly and according to legal requirements.\n\n<END>"}
+{"text": "Question: How can I contact the ICC at AppX?\n\nAnswer: Complaints can be submitted to the ICC via posh@app-xcelerate.com.\n\n<END>"}
+{"text": "Question: Who are the ICC members at AppX?\n\nAnswer: ICC members include Chaitra, Uma, Himasree Achanta, Sulthana, and Venkat.\n\n<END>"}
+{"text": "Question: What should I do if I experience sexual harassment?\n\nAnswer: Do not ignore it, clearly communicate your objection, and report the incident through the appropriate channels.\n\n<END>"}
+{"text": "Question: Should I delay reporting sexual harassment?\n\nAnswer: No, employees are encouraged to report incidents promptly.\n\n<END>"}
+{"text": "Question: Can speaking up help prevent harassment?\n\nAnswer: Yes, reporting and speaking out are effective ways to address harassment.\n\n<END>"}
+{"text": "Question: Who can file a sexual harassment complaint?\n\nAnswer: The aggrieved woman may file a complaint. Under certain circumstances, authorized persons may file on her behalf.\n\n<END>"}
+{"text": "Question: Can someone file a complaint on behalf of another person?\n\nAnswer: Yes, under specific circumstances such as incapacity or death, authorized persons may file complaints.\n\n<END>"}
+{"text": "Question: What is the deadline for filing a complaint?\n\nAnswer: Complaints should preferably be filed within three months of the incident or the last incident in a series.\n\n<END>"}
+{"text": "Question: What information should a complaint include?\n\nAnswer: The complaint should include respondent details, incident details, witnesses, and supporting evidence.\n\n<END>"}
+{"text": "Question: How soon does the ICC notify the respondent?\n\nAnswer: The ICC should send notice within seven working days of receiving the complaint.\n\n<END>"}
+{"text": "Question: Can the respondent submit a response?\n\nAnswer: Yes, the respondent may submit a reply along with supporting documents.\n\n<END>"}
+{"text": "Question: What is conciliation under the POSH process?\n\nAnswer: Conciliation is a voluntary settlement process requested by the complainant before formal inquiry begins.\n\n<END>"}
+{"text": "Question: Can monetary settlement be used during conciliation?\n\nAnswer: No, monetary settlement cannot be the basis of conciliation.\n\n<END>"}
+{"text": "Question: What happens after a successful conciliation?\n\nAnswer: No further inquiry is conducted if a settlement is reached and accepted.\n\n<END>"}
+{"text": "Question: What happens during a POSH inquiry?\n\nAnswer: The ICC conducts hearings and reviews evidence from both parties.\n\n<END>"}
+{"text": "Question: Can witnesses be called during the investigation?\n\nAnswer: Yes, the ICC may call witnesses relevant to the incident.\n\n<END>"}
+{"text": "Question: Are employees required to cooperate with the ICC?\n\nAnswer: Yes, employees are expected to fully cooperate during investigations.\n\n<END>"}
+{"text": "Question: What happens after the inquiry is completed?\n\nAnswer: The ICC prepares a report and recommends appropriate action.\n\n<END>"}
+{"text": "Question: What actions can be taken against a person found guilty of harassment?\n\nAnswer: Disciplinary action may be taken according to company rules and applicable laws.\n\n<END>"}
+{"text": "Question: Can compensation be awarded to the complainant?\n\nAnswer: Yes, salary deductions may be imposed on the respondent as recommended under policy provisions.\n\n<END>"}
+{"text": "Question: Can sexual harassment lead to criminal penalties?\n\nAnswer: Yes, applicable IPC provisions may result in imprisonment, fines, or both.\n\n<END>"}
+{"text": "Question: What is the punishment for stalking under applicable laws?\n\nAnswer: Stalking may attract penalties under relevant sections of the Indian Penal Code.\n\n<END>"}
+{"text": "Question: What happens if someone files a false complaint intentionally?\n\nAnswer: Malicious complaints may result in disciplinary action, including termination.\n\n<END>"}
+{"text": "Question: Can providing false evidence lead to disciplinary action?\n\nAnswer: Yes, providing false evidence may result in disciplinary measures.\n\n<END>"}
+{"text": "Question: Does absence of complaints mean there is no harassment?\n\nAnswer: No, absence of complaints does not necessarily mean absence of harassment.\n\n<END>"}
+{"text": "Question: What behaviors should employees avoid?\n\nAnswer: Employees should avoid offensive, harassing, intimidating, or inappropriate behavior.\n\n<END>"}
+{"text": "Question: Should employees support colleagues who report harassment?\n\nAnswer: Yes, employees should be supportive and direct colleagues to appropriate authorities.\n\n<END>"}
+{"text": "Question: What role do bystanders play in preventing harassment?\n\nAnswer: Employees should promote professionalism and help create a respectful workplace.\n\n<END>"}
+{"text": "Question: How can employees contribute to a safe workplace?\n\nAnswer: By behaving professionally, respecting others, and reporting misconduct.\n\n<END>"}
+{"text": "Question: Should employees ignore reports of harassment?\n\nAnswer: No, concerns should be taken seriously and reported appropriately.\n\n<END>"}
+{"text": "Question: What is the company's message regarding sexual harassment?\n\nAnswer: The company promotes a safe, healthy, and respectful workplace and encourages employees to say no to sexual harassment.\n\n<END>"}
+{"text": "Question: Why is workplace respect important under the POSH policy?\n\nAnswer: Respect helps maintain a safe and inclusive work environment for everyone.\n\n<END>"}
+{"text": "Question: What is the ultimate goal of the POSH policy?\n\nAnswer: To ensure a workplace free from sexual harassment and promote dignity, safety, and respect.\n\n<END>"}
+{"text": "Question: What is the purpose of the Salary Advance Policy?\n\nAnswer: The policy provides guidelines and procedures for employees to request and receive salary advances during financial emergencies.\n\n<END>"}
+{"text": "Question: Why does AppX provide salary advances?\n\nAnswer: AppX provides salary advances to support employees facing genuine financial emergencies within reasonable limits.\n\n<END>"}
+{"text": "Question: Who is eligible to apply for a salary advance?\n\nAnswer: Permanent employees who have completed at least six months of continuous full-time service are eligible.\n\n<END>"}
+{"text": "Question: How long must I work before becoming eligible for a salary advance?\n\nAnswer: Employees must complete six months of continuous full-time service.\n\n<END>"}
+{"text": "Question: Can new employees apply for a salary advance?\n\nAnswer: No, employees must complete six months of service before becoming eligible.\n\n<END>"}
+{"text": "Question: What situations qualify for a salary advance?\n\nAnswer: Eligible situations include relocation, health expenses, children's education, and marriage-related expenses.\n\n<END>"}
+{"text": "Question: Can I request a salary advance for relocation expenses?\n\nAnswer: Yes, relocation is one of the approved reasons.\n\n<END>"}
+{"text": "Question: Can I request a salary advance for medical emergencies?\n\nAnswer: Yes, health-related expenses for the employee or immediate family are eligible.\n\n<END>"}
+{"text": "Question: Can I request a salary advance for my child's education?\n\nAnswer: Yes, children's education is an eligible reason.\n\n<END>"}
+{"text": "Question: Can I request a salary advance for marriage expenses?\n\nAnswer: Yes, marriage expenses for the employee or immediate family are eligible.\n\n<END>"}
+{"text": "Question: Can contract employees apply for a salary advance?\n\nAnswer: No, contract employees are not eligible.\n\n<END>"}
+{"text": "Question: Can employees serving notice period apply for a salary advance?\n\nAnswer: No, employees on notice period are not eligible.\n\n<END>"}
+{"text": "Question: Can I apply for a new salary advance if I already have one outstanding?\n\nAnswer: No, employees must not have any outstanding salary advances at the time of request.\n\n<END>"}
+{"text": "Question: What is the maximum salary advance amount I can receive?\n\nAnswer: The advance cannot exceed 40% of the employee's CTC or \u20b92,00,000, whichever is lower.\n\n<END>"}
+{"text": "Question: Is there a cap on salary advance amounts?\n\nAnswer: Yes, the maximum limit is 40% of CTC or \u20b92,00,000, whichever is lower.\n\n<END>"}
+{"text": "Question: How is the salary advance limit calculated?\n\nAnswer: It is calculated based on 40% of the employee's CTC, subject to a maximum of \u20b92,00,000.\n\n<END>"}
+{"text": "Question: How often can I apply for a salary advance?\n\nAnswer: Employees may avail a salary advance only once in a twelve-month period.\n\n<END>"}
+{"text": "Question: Can I take multiple salary advances in the same year?\n\nAnswer: No, only one salary advance is permitted within a twelve-month period.\n\n<END>"}
+{"text": "Question: How do I apply for a salary advance?\n\nAnswer: Employees must submit a written request through HR explaining the reason for the advance.\n\n<END>"}
+{"text": "Question: What information should be included in the application?\n\nAnswer: The request should clearly specify the reason for the salary advance.\n\n<END>"}
+{"text": "Question: Does HR approval require HR approval?\n\nAnswer: Yes, the request must first be approved by the HR department.\n\n<END>"}
+{"text": "Question: Who gives the final approval for a salary advance?\n\nAnswer: Final approval is at the discretion of the Finance Department and Senior Management.\n\n<END>"}
+{"text": "Question: Is salary advance approval automatic after HR approval?\n\nAnswer: No, final approval must also be obtained from Finance and Senior Management.\n\n<END>"}
+{"text": "Question: How long does it take to process a salary advance request?\n\nAnswer: Requests are generally processed within 7 working days of submission.\n\n<END>"}
+{"text": "Question: What is the standard processing timeline for salary advances?\n\nAnswer: The standard timeline is 7 working days.\n\n<END>"}
+{"text": "Question: Are emergency salary advance requests handled differently?\n\nAnswer: Yes, genuine emergencies may be prioritized and reviewed on a case-by-case basis.\n\n<END>"}
+{"text": "Question: How is the salary advance repaid?\n\nAnswer: Repayment is made through equal monthly installments deducted from salary.\n\n<END>"}
+{"text": "Question: When does salary advance repayment begin?\n\nAnswer: Repayment starts from the subsequent payroll cycle.\n\n<END>"}
+{"text": "Question: What repayment options are available?\n\nAnswer: Repayment may be spread across six, nine, or twelve monthly installments.\n\n<END>"}
+{"text": "Question: Will installments be deducted automatically?\n\nAnswer: Yes, installments are deducted directly from the employee's salary.\n\n<END>"}
+{"text": "Question: Can I repay the salary advance early?\n\nAnswer: Yes, employees may choose early repayment.\n\n<END>"}
+{"text": "Question: How do I request early repayment?\n\nAnswer: Notification should be sent to HR and Finance on or before the 15th of that month.\n\n<END>"}
+{"text": "Question: Is any interest charged on salary advances?\n\nAnswer: No, salary advances are provided without interest.\n\n<END>"}
+{"text": "Question: Will tax regulations apply to salary advances?\n\nAnswer: Yes, applicable tax regulations will be followed.\n\n<END>"}
+{"text": "Question: Can management approve exceptions to the salary advance limits?\n\nAnswer: Yes, exceptions may be approved in cases of extreme financial hardship.\n\n<END>"}
+{"text": "Question: Can I receive a higher advance amount in exceptional circumstances?\n\nAnswer: Yes, management may approve a higher amount on a case-by-case basis.\n\n<END>"}
+{"text": "Question: Can repayment terms be extended in special cases?\n\nAnswer: Yes, management may approve a longer repayment period in exceptional situations.\n\n<END>"}
+{"text": "Question: Who approves salary advance exceptions?\n\nAnswer: Exceptions must be documented and approved by the HR department.\n\n<END>"}
+{"text": "Question: Is the HR department's decision final for exceptions?\n\nAnswer: Yes, the HR department's decision is final regarding exceptions.\n\n<END>"}
+{"text": "Question: Are salary advance requests kept confidential?\n\nAnswer: Yes, all salary advance requests are handled with confidentiality and discretion.\n\n<END>"}
